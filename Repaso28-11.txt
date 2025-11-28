@@ -1,4 +1,5 @@
-﻿Esto es una prueba y repaso de lo aprendido
+﻿Esto es un repaso de lo aprendido
 
 
 Como estoy practicando agrego una linea en mi archivo WEB y la agrego a mi directorio.
+
